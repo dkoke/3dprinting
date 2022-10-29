@@ -47,7 +47,8 @@ heater_pin: PA1
 sensor_type: EPCOS 100K B57560G104F
 sensor_pin: PC5
 control: pid
-# tuned for stock hardware with 200 degree Celsius target
+
+#tuned for stock hardware with 200 degree Celsius target
 pid_Kp: 30.149
 pid_Ki: 1.595
 pid_Kd: 142.453
@@ -59,7 +60,8 @@ heater_pin: PA2
 sensor_type: EPCOS 100K B57560G104F
 sensor_pin: PC4
 control: pid
-# tuned for stock hardware with 50 degree Celsius target
+
+#tuned for stock hardware with 50 degree Celsius target
 pid_Kp: 54.027
 pid_Ki: 0.770
 pid_Kd: 948.182

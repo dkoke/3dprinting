@@ -1,6 +1,6 @@
-###Creality Ender 3 Pro with Hemera Hot End and bltouch
+### Creality Ender 3 Pro with Hemera Hot End and bltouch
 
-Creality Ender 3 Pro 
-4.2.7 Controller Board
-Hemra Hotend and bltouch
-Raspberry Pi3 running fluiddpi
+- Printer `Creality Ender 3 Pro` 
+- Controller Board `Creality 4.2.7`
+- Hotend `Hemra w/ bltouch`
+- Computer `Raspberry Pi3 running fluiddpi`

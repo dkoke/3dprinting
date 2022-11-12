@@ -1,5 +1,6 @@
-### Creality Ender 3 Pro with Hemera Hot End and bltouch
+# 3D Printer
 
+## Hardware
 - Printer `Creality Ender 3 Pro` 
 - Controller Board `Creality 4.2.7`
 - Hotend `Hemra w/ bltouch`

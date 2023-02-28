@@ -1,10 +1,10 @@
-# 3D Printer
+# 3D Printer Automation
 
 ## Hardware
 - Printer `Creality Ender 3 Pro` 
 - Controller Board `Creality 4.2.7`
 - Hotend `Hemra w/ bltouch`
-- Computer `Raspberry Pi3 running fluiddpi`
+- Computer `Raspberry Pi3 / fluiddpi`
 
 
 ## fluiddpi
